@@ -18,7 +18,7 @@
   "license": "Apache-2.0",
   "homepage": "https://elements.polymer-project.org/elements/google-apis?active=google-js-api",
   "dependencies": {
-    "@polymer/polymer": "^3.0.0-pre2.1",
+    "@polymer/polymer": "^3.0.0-pre12",
     "@polymer/iron-jsonp-library": "^3.0.0-pre.12"
   },
   "devDependencies": {}
