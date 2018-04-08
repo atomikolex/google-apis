@@ -1,5 +1,5 @@
 import '../../@polymer/polymer/polymer-element.js';
-import { IronJsonpLibraryBehavior } from '../../../bower_components/iron-jsonp-library/iron-jsonp-library.js';
+import { IronJsonpLibraryBehavior } from '../../@polymer/iron-jsonp-library/iron-jsonp-library.js';
 import { Polymer } from '../../@polymer/polymer/lib/legacy/polymer-fn.js';
 /*
 Copyright (c) 2015 The Polymer Project Authors. All rights reserved.
