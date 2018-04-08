@@ -21,9 +21,9 @@
     "apis"
   ],
   "dependencies": {
-    "iron-jsonp-library": "PolymerElements/iron-jsonp-library#3.0_preview"
+    "iron-jsonp-library": "PolymerElements/iron-jsonp-library#3.0-preview"
   },
   "devDependencies": {    
-    "iron-component-page": "PolymerElements/iron-component-page#3.0_preview"
+    "iron-component-page": "PolymerElements/iron-component-page#3.0-preview"
   }
 }

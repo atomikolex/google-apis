@@ -1,7 +1,7 @@
 {
   "name": "@atomiko/google-apis-holdout",
   "flat": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Web components to load Google API libraries - unofficial HOLDOUT (done with Polymer-Modulizer)",
   "contributors": [
     "Scott Miles <sjmiles@google.com>",
