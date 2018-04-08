@@ -1,5 +1,5 @@
 {
-  "name": "@atomikolex/google-apis",
+  "name": "@atomiko/google-apis-holdout",
   "flat": true,
   "version": "0.0.1",
   "description": "Web components to load Google API libraries - unofficial HOLDOUT (done with Polymer-Modulizer)",
@@ -14,7 +14,6 @@
     "google",
     "apis"
   ],
-  "main": "google-apis.html",
   "license": "Apache-2.0",
   "homepage": "https://elements.polymer-project.org/elements/google-apis?active=google-js-api",
   "dependencies": {
