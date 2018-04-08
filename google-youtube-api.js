@@ -1,6 +1,6 @@
-import '../polymer/polymer.js';
+import '../../node_modules/@polymer/polymer/polymer.js';
 import { IronJsonpLibraryBehavior } from '../iron-jsonp-library/iron-jsonp-library.js';
-import { Polymer } from '../polymer/lib/legacy/polymer-fn.js';
+import { Polymer } from '../../node_modules/@polymer/polymer/lib/legacy/polymer-fn.js';
 /*
 Copyright (c) 2014 The Polymer Project Authors. All rights reserved.
 This code may only be used under the BSD style license found at https://polymer.github.io/LICENSE.txt
