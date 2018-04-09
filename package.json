@@ -10,8 +10,8 @@
     }
   ],
   "dependencies": {
-    "@polymer/polymer": "^3.0.0-pre.12",
-    "@polymer/iron-jsonp-library": "^3.0.0-pre.12"
+    "@polymer/iron-jsonp-library": "^3.0.0-pre.12",
+    "@polymer/polymer": "^3.0.0-pre.12"
   },
   "deprecated": false,
   "description": "Web components to load Google API libraries - unofficial HOLDOUT (done with Polymer-Modulizer)",
@@ -27,5 +27,5 @@
   ],
   "license": "Apache-2.0",
   "name": "@atomiko/google-apis-holdout",
-  "version": "0.0.4"
+  "version": "0.0.5"
 }
